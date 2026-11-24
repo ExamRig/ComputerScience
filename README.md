@@ -1,39 +1,44 @@
-# ExamRig
+# ExamRig Computer Science
 
-**Learn, practice, and test your preparation.** ExamRig is an online learning and assessment platform with study material, chapter-wise practice, selected previous-year questions, and timed online tests. Computer Science is one of the areas with chapter-based material.
+Free Computer Science study and practice resources from [ExamRig](https://www.examrig.com).
 
-Visit **[www.examrig.com](https://www.examrig.com)** to explore resources currently available.
+This repository is a public companion for students: it organizes original notes, practice questions, and mock-test guides by topic. Visit [ExamRig](https://www.examrig.com) to explore the online learning and assessment platform. The exact content and features available on the site may vary.
 
-## What students can do
+## Explore the repository
 
-- Review topic and chapter-based study material.
-- Practice questions by chapter where available.
-- Explore previous-year question resources for selected examinations.
-- Take timed tests and review results and performance reports where available.
+- [Study guides](study-guides/README.md)
+- [Practice sets](practice-sets/README.md)
+- [Mock-test preparation](mock-tests/README.md)
 
-Availability varies by subject and examination. ExamRig is a supplementary study resource; it does not replace prescribed textbooks, classes, or official exam guidance.
+## Topics to build out
 
-## A simple study cycle
+Computer Science is broad. This repository can grow chapter by chapter across areas such as:
 
-1. Choose a topic you are studying.
-2. Review the material and practice related questions.
-3. Attempt a timed test when you are ready.
-4. Review mistakes and revisit topics that need more work.
+- Programming fundamentals and data structures
+- Algorithms and complexity
+- Database management systems
+- Operating systems
+- Computer networks
+- Computer organization and architecture
+- Software engineering
+- Theory of computation and compiler basics
 
-## Get started
+Topics listed here are a learning roadmap, not a claim that every topic or test is currently available on ExamRig.
 
-Visit [ExamRig](https://www.examrig.com) to create an account and see the current practice sets and tests.
+## How to use these resources
 
-## About this repository
+1. Select a subject and read the guide.
+2. Attempt its practice set without looking at the answers.
+3. Review explanations and revisit concepts you missed.
+4. Use timed tests on ExamRig when available to practice pacing.
 
-This repository introduces ExamRig and points students to the public learning platform. It does not contain the platform's source code, private question bank, or student records.
+## Contributing
 
-## Contact and policies
+Corrections and original educational contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md). Share only material you wrote or have permission to publish. Do not submit private student data, passwords, unpublished exam content, or copyrighted question banks.
 
-- Website: [examrig.com](https://www.examrig.com)
+## About ExamRig
+
+ExamRig brings study material, chapter-wise practice, selected previous-year question resources, and online tests together to support exam preparation. It is a supplementary learning resource, not a substitute for textbooks, instruction, or official exam guidance.
+
+- Website: [www.examrig.com](https://www.examrig.com)
 - Contact: [contact@examrig.com](mailto:contact@examrig.com)
-- Policies: see the [website footer](https://www.examrig.com) for Privacy Policy, Terms of Use, Cookie Policy, and Disclaimer.
-
----
-
-ExamRig — learn, practice, and test.
